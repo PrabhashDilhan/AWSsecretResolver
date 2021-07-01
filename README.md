@@ -1,6 +1,6 @@
 # AWSsecretResolver
 
-## This class mediator can be used to resolve AWS secrets in the mediation flow.
+## This class mediator can be used to resolve AWS secrets in the WSO2 EI mediation flow.
 
 *SAMPLE SERVICE*
 
