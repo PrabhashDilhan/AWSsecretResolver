@@ -2,6 +2,12 @@
 
 ## This class mediator can be used to resolve AWS secrets in the WSO2 EI mediation flow.
 
+
+### Steps to appy the class mediator
+
+1. build maven project and copy the bundle jar file to the <EI_HOME>/dropins direcotry.
+2. Start the server and you can use below service to test class mediator.
+
 *SAMPLE SERVICE*
 
 ```
